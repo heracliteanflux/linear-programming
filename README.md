@@ -11,42 +11,42 @@ Based on Prof. Christopher Byrne's lecture materials and his _Linear Programs I:
 
 ## Terms
 
-* [[Wolfram](https://mathworld.wolfram.com/AffineFunction.html)][[Wiki](https://en.wikipedia.org/wiki/Affine_transformation)] Affine Function/Map/Transformation
-* [[Wolfram]()][[Wiki]https://en.wikipedia.org/wiki/Approximation_algorithm)] Approximation Algorithm
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Block_matrix)] Block Matrix
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Combinatorial_optimization)] Combinatorial Optimization
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Constraint_(mathematics))] Constraint
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Constraint_satisfaction)] Constraint Satisfaction
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Convex_optimization)] Convex Optimization
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Convex_polytope)] Convex Polytope
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Convex_set)] Convex Set
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Directional_derivative)] Directional Derivative
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Dual_linear_program)] Dual Linear Program
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Duality_(optimization)] Duality
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Duality_gap)] Duality Gap
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Dynamic_programming)] Dynamic Programming
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Feasible_region)] Feasible Region/Set
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Fourier%E2%80%93Motzkin_elimination)] Fourier-Motzkin Elimination
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Game_theory)] Game Theory
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Gradient)] Gradient
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Hyperplane)] Hyperplane
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Integer_programming)] Integer Programming
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Interior-point_method)] Interior Point Methods
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Lagrange_multiplier)] Lagrange Multiplier
-* [[Wolfram](https://mathworld.wolfram.com/LevelSet.html)][[Wiki](https://en.wikipedia.org/wiki/Level_set)] Level Set
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Linear_equation)] Linear Equality/Equation
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Linear_inequality)] Linear Inequality
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Linear_map)] Linear Function/Map/Transformation
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Linear_programming)] Linear Programming
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Mathematical_model)] Mathematical Model
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Mathematical_optimization)] Mathematical Optimization
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Network_flow_problem)] Network Flow Problem
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Newton%27s_method)] Newton's Method
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Nonlinear_programming)] Non Linear Programming
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Loss_function)] Objective Function
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Optimization_problem)] Optimization Problem
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Quadratic_programming)] Quadratic Programming
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Linear_programming_relaxation)] Relaxation
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Sequential_quadratic_programming)] Sequential Quadratic Programming
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Simplex_algorithm)] Simplex Algorithm
-* [[Wolfram]()][[Wiki](https://en.wikipedia.org/wiki/Slack_variable)] Slack Variable
+* [[Wo](https://mathworld.wolfram.com/AffineFunction.html)][[Wi](https://en.wikipedia.org/wiki/Affine_transformation)] Affine Function/Map/Transformation
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Approximation_algorithm)] Approximation Algorithm
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Block_matrix)] Block Matrix
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Combinatorial_optimization)] Combinatorial Optimization
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Constraint_(mathematics))] Constraint
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Constraint_satisfaction)] Constraint Satisfaction
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Convex_optimization)] Convex Optimization
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Convex_polytope)] Convex Polytope
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Convex_set)] Convex Set
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Directional_derivative)] Directional Derivative
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Dual_linear_program)] Dual Linear Program
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Duality_(optimization))] Duality
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Duality_gap)] Duality Gap
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Dynamic_programming)] Dynamic Programming
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Feasible_region)] Feasible Region/Set
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Fourier%E2%80%93Motzkin_elimination)] Fourier-Motzkin Elimination
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Game_theory)] Game Theory
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Gradient)] Gradient
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Hyperplane)] Hyperplane
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Integer_programming)] Integer Programming
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Interior-point_method)] Interior Point Methods
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Lagrange_multiplier)] Lagrange Multiplier
+* [[Wo](https://mathworld.wolfram.com/LevelSet.html)][[Wi](https://en.wikipedia.org/wiki/Level_set)] Level Set
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Linear_equation)] Linear Equality/Equation
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Linear_inequality)] Linear Inequality
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Linear_map)] Linear Function/Map/Transformation
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Linear_programming)] Linear Programming
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Mathematical_model)] Mathematical Model
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Mathematical_optimization)] Mathematical Optimization
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Network_flow_problem)] Network Flow Problem
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Newton%27s_method)] Newton's Method
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Nonlinear_programming)] Non Linear Programming
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Loss_function)] Objective Function
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Optimization_problem)] Optimization Problem
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Quadratic_programming)] Quadratic Programming
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Linear_programming_relaxation)] Relaxation
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Sequential_quadratic_programming)] Sequential Quadratic Programming
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Simplex_algorithm)] Simplex Algorithm
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Slack_variable)] Slack Variable
