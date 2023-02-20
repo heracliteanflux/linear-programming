@@ -30,10 +30,12 @@ Based on Prof. Christopher Byrne's lecture materials and his _Linear Programs I:
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Game_theory)] Game Theory
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Gradient)] Gradient
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Hyperplane)] Hyperplane
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Hypersurface)] Hypersurface
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Integer_programming)] Integer Programming
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Interior-point_method)] Interior Point Methods
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Lagrange_multiplier)] Lagrange Multiplier
 * [[Wo](https://mathworld.wolfram.com/LevelSet.html)][[Wi](https://en.wikipedia.org/wiki/Level_set)] Level Set
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Line_(geometry))] Line
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Linear_equation)] Linear Equality/Equation
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Linear_inequality)] Linear Inequality
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Linear_map)] Linear Function/Map/Transformation
@@ -45,8 +47,11 @@ Based on Prof. Christopher Byrne's lecture materials and his _Linear Programs I:
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Nonlinear_programming)] Non Linear Programming
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Loss_function)] Objective Function
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Optimization_problem)] Optimization Problem
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Plane_(geometry))] Plane
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Point_(geometry))] Point
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Quadratic_programming)] Quadratic Programming
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Linear_programming_relaxation)] Relaxation
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Sequential_quadratic_programming)] Sequential Quadratic Programming
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Simplex_algorithm)] Simplex Algorithm
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Slack_variable)] Slack Variable
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Surface_(mathematics))] Surface
