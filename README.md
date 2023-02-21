@@ -14,7 +14,10 @@ Based on Prof. Christopher Byrne's lecture materials and his _Linear Programs I:
 * [[Wo](https://mathworld.wolfram.com/AffineFunction.html)][[Wi](https://en.wikipedia.org/wiki/Affine_transformation)] Affine Function/Map/Transformation
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Approximation_algorithm)] Approximation Algorithm
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Block_matrix)] Block Matrix
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Bounded_set)] Boundedness
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Closed_set)] Closedness
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Combinatorial_optimization)] Combinatorial Optimization
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Compact_space)] Compactness
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Constraint_(mathematics))] Constraint
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Constraint_satisfaction)] Constraint Satisfaction
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Convex_optimization)] Convex Optimization
