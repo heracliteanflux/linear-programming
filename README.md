@@ -13,6 +13,8 @@ Based on Prof. Christopher Byrne's lecture materials and his _Linear Programs I:
 
 * [[Wo](https://mathworld.wolfram.com/AffineFunction.html)][[Wi](https://en.wikipedia.org/wiki/Affine_transformation)] Affine Function/Map/Transformation
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Approximation_algorithm)] Approximation Algorithm
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Basic_feasible_solution)] Basic Feasible Solution
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Bland%27s_rule)] Bland's Rule
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Block_matrix)] Block Matrix
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Bounded_set)] Boundedness
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Closed_set)] Closedness
@@ -23,6 +25,7 @@ Based on Prof. Christopher Byrne's lecture materials and his _Linear Programs I:
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Convex_optimization)] Convex Optimization
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Convex_polytope)] Convex Polytope
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Convex_set)] Convex Set
+* [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Criss-cross_algorithm)] Criss-Cross Algorithm
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Directional_derivative)] Directional Derivative
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Dual_linear_program)] Dual Linear Program
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Duality_(optimization))] Duality
@@ -58,3 +61,7 @@ Based on Prof. Christopher Byrne's lecture materials and his _Linear Programs I:
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Simplex_algorithm)] Simplex Algorithm
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Slack_variable)] Slack Variable
 * [[Wo]()][[Wi](https://en.wikipedia.org/wiki/Surface_(mathematics))] Surface
+
+## Courses
+
+* [ORIE 6300: Mathematical Programming I [Fall 2014]](https://people.orie.cornell.edu/dpw/orie6300/)
