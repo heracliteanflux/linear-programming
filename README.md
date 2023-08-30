@@ -31,8 +31,11 @@ more
 * Beck, Amir. (2017). _First-Order Methods in Optimization_. Society for Industrial and Applied Mathematics.
 * [ [P](https://arxiv.org/abs/1405.4980) ][ [Y](https://www.youtube.com/playlist?list=PLAPSKVSdi0oZPbS-UD_kwT4ePZQx_CiME) ] Bubeck, Sébastien. (2015). _Convex Optimization: Algorithms and Complexity_.
 * Chong, Edwin K. P. & Stanislaw H. Zak. (2001). _An Introduction to Optimization, 2nd Ed_. Wiley.
+* Dantzig, George B. & Mukund N. Thapa. (1997). _Linear Programming 1: Introduction_. Springer Series in Operations Research and Financial Engineering.
+* Dantzig, George B. & Mukund N. Thapa. (2003). _Linear Programming 2: Theory and Extensions_. Springer Series in Operations Research and Financial Engineering.
+* Morse, Philip M. & George E. Kimball. (2003). _Methods of Operations Research_. Dover Books on Computer Science.
 * Nesterov, Yurii. (2018). _Lectures on Convex Optimization_. 2nd Ed. Springer: Springer Optimization and Its Applications.
-* Nocedal, Jorge & Stephen Wright. (1999). _Numerical Optimization_. Springer.
+* Nocedal, Jorge & Stephen Wright. (1999). _Numerical Optimization_. Series in Operations Research and Financial Engineering.
 * Pardalos, Panos M., Varvara Rasskazova, & Michael N. Vrahatis. (2021). _Black Box Optimization, Machine Learning, and No-Free Lunch Theorem_. Springer: Springer Optimization and Its Applications.
 * Thie, Paul R. Gerard E. Keough. (2008). _An Introduction to Linear Programming and Game Theory_. 3rd Ed. [Wiley](https://www.wiley.com/en-us/An+Introduction+to+Linear+Programming+and+Game+Theory%2C+3rd+Edition-p-9780470232866).
 
@@ -93,6 +96,7 @@ more
 * [ [w](https://en.wikipedia.org/wiki/Newton%27s_method) ] Newton's Method
 * [ [w](https://en.wikipedia.org/wiki/Nonlinear_programming) ] Non Linear Programming
 * [ [w](https://en.wikipedia.org/wiki/Loss_function) ] Objective Function
+* [ [w](https://en.wikipedia.org/wiki/Operations_research) ] Operations Research
 * [ [w](https://en.wikipedia.org/wiki/Optimization_problem) ] Optimization Problem
 * [ [w](https://en.wikipedia.org/wiki/Plane_(geometry)) ] Plane
 * [ [w](https://en.wikipedia.org/wiki/Point_(geometry)) ] Point
